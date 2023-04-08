@@ -50,3 +50,5 @@
 
 ### **Сотрудничество**
 По всем вопросам сотрудничества [писать сюда.](https://github.com/monreline/ecofriendly/blob/main/cooperation.md)
+
+[«У МУСОРА СВОЕ МЕСТО - ЭТО УРНА.»](https://github.com/monreline/ecofriendly)
