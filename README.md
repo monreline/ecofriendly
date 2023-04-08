@@ -1,5 +1,5 @@
 
-![Logo](https://soprema.us/wp-content/uploads/2019/08/ECOFriendly_Square.png)
+![Logo](https://imageup.ru/img121/4284172/ahc-rmqyoto.jpg)
 
 ## **ИГРА-ПРИЛОЖЕНИЕ *«ЭКО-ЧИСТЫЙ»***
 *«У мусора свое место - это урна.»*
