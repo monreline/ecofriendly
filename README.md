@@ -34,7 +34,7 @@
 Установка приложения из github репозитория
 
 ```bash
-  git clone https://github.com/monreline/ecofriendly.git
+  git clone https://github.com/monreline/ecofriendly
   cd ecofriendly
 ```
 
