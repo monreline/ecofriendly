@@ -49,4 +49,4 @@
 Если у Вас есть какие-то пожелания, пожалуйста, напишите нам ecofriendly@fake.com
 
 ### **Сотрудничество**
-По всем вопросам сотрудничества [писать сюда](https://github.com/Buhancev/cource_project_microservice/blob/main/CONTRIBUTING.md).
+По всем вопросам сотрудничества [писать сюда](https://github.com/monreline/ecofriendly/blob/main/cooperation.md).
