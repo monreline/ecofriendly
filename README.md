@@ -49,4 +49,4 @@
 Если у Вас есть какие-то пожелания, пожалуйста, напишите нам ecofriendly@fake.com
 
 ### **Сотрудничество**
-По всем вопросам сотрудничества [писать сюда](https://github.com/monreline/ecofriendly/blob/main/cooperation.md).
+По всем вопросам сотрудничества [писать сюда.](https://github.com/monreline/ecofriendly/blob/main/cooperation.md)
